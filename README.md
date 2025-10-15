@@ -1,0 +1,2 @@
+This website is coded in interest of completion of a project of the Odin Project.
+It is a completely html based file, atleast in its current iteration it is. I will employ all the relevant html tags, including the assets like images, culminating into a website moderately populated with the recipes from the Allrecipes website.
